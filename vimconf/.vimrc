@@ -1,4 +1,4 @@
-colorscheme molokai
+colorscheme monokai
 syntax on
 inoremap jk <ESC>
 inoremap kj <ESC>
